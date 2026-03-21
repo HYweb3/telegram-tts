@@ -7,7 +7,7 @@
   "keywords": ["tts", "telegram", "voice", "speech", "edge-tts"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/telegram-tts"
+    "url": "https://github.com/HYweb3/telegram-tts"
   },
   "engines": {
     "node": ">=14.0.0"

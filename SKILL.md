@@ -3,7 +3,7 @@ name: telegram-tts
 description: Text-to-speech with automatic Telegram voice message delivery. Use when user wants to hear content read aloud ("读给我听", "转语音", "tts", "朗读"). Converts text to speech using edge-tts and sends as playable voice message to Telegram.
 metadata:
   openclaw:
-    homepage: https://github.com/your-username/telegram-tts
+    homepage: https://github.com/HYweb3/telegram-tts
 ---
 
 # Telegram TTS - 语音消息自动发送

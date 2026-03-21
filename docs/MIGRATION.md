@@ -52,7 +52,7 @@ cd ~/.openclaw/workspace/skills/telegram-tts
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/你的用户名/telegram-tts.git
+git remote add origin https://github.com/HYweb3/telegram-tts.git
 git push -u origin main
 ```
 
@@ -60,7 +60,7 @@ git push -u origin main
 
 ```bash
 # 1. 克隆
-git clone https://github.com/你的用户名/telegram-tts.git
+git clone https://github.com/HYweb3/telegram-tts.git
 cd telegram-tts
 
 # 2. 安装依赖
