@@ -1,0 +1,28 @@
+{
+  "name": "telegram-tts",
+  "version": "1.0.0",
+  "description": "Text-to-speech with automatic Telegram voice message delivery",
+  "author": "openclaw",
+  "license": "MIT",
+  "keywords": ["tts", "telegram", "voice", "speech", "edge-tts"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/telegram-tts"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "external": [
+      "edge-tts",
+      "ffmpeg",
+      "jq",
+      "curl"
+    ]
+  },
+  "install": "./install.sh",
+  "scripts": {
+    "tts-send": "~/bin/tts-send.sh",
+    "tts-config": "~/bin/tts-config.sh"
+  }
+}
